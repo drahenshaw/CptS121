@@ -1,0 +1,158 @@
+﻿  main.c
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(65): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(65): warning C4024: 'generate_start_manual': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(65): warning C4024: 'generate_start_manual': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(67): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(67): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(67): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(76): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(76): warning C4024: 'generate_start_manual': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(76): warning C4024: 'generate_start_manual': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(77): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(77): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(77): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(81): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(81): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(81): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(93): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(93): warning C4024: 'generate_start_manual': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(93): warning C4024: 'generate_start_manual': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(94): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(94): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(94): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(98): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(98): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(98): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(109): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(109): warning C4024: 'generate_start_manual': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(109): warning C4024: 'generate_start_manual': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(110): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(110): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(110): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(114): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(114): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(114): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(125): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(125): warning C4024: 'generate_start_manual': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(125): warning C4024: 'generate_start_manual': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(126): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(126): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(126): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(130): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(130): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(130): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(140): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(140): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(140): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(141): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(141): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(141): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(146): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(146): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(146): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(147): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(147): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(147): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(150): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(150): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(150): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(157): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(157): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(157): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(158): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(158): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(158): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(161): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(161): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(161): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(168): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(168): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(168): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(169): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(169): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(169): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(172): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(172): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(172): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(179): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(179): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(179): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(180): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(180): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(180): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(183): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(183): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(183): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(191): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(191): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(191): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(192): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(192): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(192): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(197): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(197): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(197): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(198): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(198): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(198): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(201): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(201): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(201): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(208): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(208): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(208): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(209): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(209): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(209): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(212): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(212): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(212): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(219): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(219): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(219): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(220): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(220): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(220): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(223): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(223): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(223): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(230): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(230): warning C4024: 'generate_start_random': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(230): warning C4024: 'generate_start_random': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(231): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(231): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(231): warning C4024: 'prevent_overwrite': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(234): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(234): warning C4024: 'place_ship': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(234): warning C4024: 'place_ship': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(250): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(266): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(266): warning C4024: 'check_shot': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(266): warning C4024: 'check_shot': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(270): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(270): warning C4024: 'check_sink': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(270): warning C4024: 'check_sink': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(270): warning C4024: 'check_sink': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(270): warning C4024: 'check_sink': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(270): warning C4024: 'check_sink': different types for formal and actual parameter 7
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(283): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(283): warning C4024: 'check_shot': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(283): warning C4024: 'check_shot': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(287): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(287): warning C4024: 'check_sink': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(287): warning C4024: 'check_sink': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(287): warning C4024: 'check_sink': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(287): warning C4024: 'check_sink': different types for formal and actual parameter 6
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(287): warning C4024: 'check_sink': different types for formal and actual parameter 7
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(292): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(292): warning C4024: 'print_winner': different types for formal and actual parameter 1
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(292): warning C4024: 'print_winner': different types for formal and actual parameter 2
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(293): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(293): warning C4024: 'output_stats': different types for formal and actual parameter 2
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(293): warning C4024: 'output_stats': different types for formal and actual parameter 3
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(293): warning C4024: 'output_stats': different types for formal and actual parameter 4
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(293): warning C4024: 'output_stats': different types for formal and actual parameter 5
+c:\users\david\onedrive\cpts121\homework\pa6\pa6\main.c(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  PA6.vcxproj -> C:\Users\david\OneDrive\CptS121\Homework\PA6\Debug\PA6.exe
+  PA6.vcxproj -> C:\Users\david\OneDrive\CptS121\Homework\PA6\Debug\PA6.pdb (Full PDB)

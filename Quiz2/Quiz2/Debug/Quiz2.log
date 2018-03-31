@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\david\onedrive\cpts121\homework\quiz2\quiz2\main.c(7): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\david\onedrive\cpts121\homework\quiz2\quiz2\main.c(7): note: placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+c:\users\david\onedrive\cpts121\homework\quiz2\quiz2\main.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Quiz2.vcxproj -> C:\Users\david\OneDrive\CptS121\Homework\Quiz2\Debug\Quiz2.exe
+  Quiz2.vcxproj -> C:\Users\david\OneDrive\CptS121\Homework\Quiz2\Debug\Quiz2.pdb (Full PDB)

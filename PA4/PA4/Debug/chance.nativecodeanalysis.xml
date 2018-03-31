@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\david\onedrive\cpts121\homework\pa4\pa4\</FILEPATH>
+      <FILENAME>chance.c</FILENAME>
+      <LINE>76</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>get_bank_balance</FUNCTION>
+    <DECORATED>get_bank_balance</DECORATED>
+    <FUNCLINE>71</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\david\onedrive\cpts121\homework\pa4\pa4\</FILEPATH>
+      <FILENAME>chance.c</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>get_wager_amount</FUNCTION>
+    <DECORATED>get_wager_amount</DECORATED>
+    <FUNCLINE>80</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\david\onedrive\cpts121\homework\pa4\pa4\</FILEPATH>
+      <FILENAME>chance.c</FILENAME>
+      <LINE>102</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>play_craps</FUNCTION>
+    <DECORATED>play_craps</DECORATED>
+    <FUNCLINE>94</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\david\onedrive\cpts121\homework\pa4\pa4\</FILEPATH>
+      <FILENAME>chance.c</FILENAME>
+      <LINE>133</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>menu_input</FUNCTION>
+    <DECORATED>menu_input</DECORATED>
+    <FUNCLINE>130</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
